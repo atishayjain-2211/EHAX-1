@@ -1,4 +1,4 @@
-#IN MEMORY DATABSE
+#IN MEMORY DATABS
 
 
 database = {}
